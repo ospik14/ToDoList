@@ -1,22 +1,21 @@
 # ✅ To-Do List (C++)
 
-Консольна програма для створення та керування списком завдань.
+A simple console application for creating and managing a list of tasks.
 
-## 🔹 Можливості
-- Додавання, перегляд і редагування завдань
-- Позначення завдань як виконаних
-- Автоматичне збереження у файл `Tasks.txt`
-- Перевірка коректності введення
+## 🔹 Features
+- Add, view, and edit tasks  
+- Mark tasks as completed  
+- Automatically saves data to `Tasks.txt`  
+- Input validation and error handling  
 
-## 🧠 Технології
+## 🧠 Technologies
 - C++
 - STL (`vector`, `fstream`, `string`, `sstream`)
-- Класи та об’єктно-орієнтований підхід
+- Object-Oriented Programming (OOP)
 
-## ⚙️ Як запустити
-1. Склонуйте репозиторій:
+## ⚙️ How to Run
+1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/ToDoList.git
-
-2. Відкрийте проект у Visual Studio / Code::Blocks / CLion.
-3. Зберіть і запустіть.
+2. Open the project in Visual Studio / Code::Blocks / CLion.
+3. Build and run the program.
